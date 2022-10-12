@@ -16,13 +16,13 @@ To run this locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/onkar895/Travel_Tourist_Website.git
+sudo git clone https://github.com/onkar895/Ecommerce_Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/onkar895/Travel_Tourist_Website.git
+git clone https://github.com/onkar895/Ecommerce_Website.git
 ```
 
 ### License
