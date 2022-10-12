@@ -1,6 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
 
+# Products
 class Products(models.Model):
     name = models.CharField(max_length=50, default='')
     price = models.IntegerField(default=0)
