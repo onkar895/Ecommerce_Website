@@ -10,6 +10,7 @@ class Products(models.Model):
     def __str__(self):
         return f'{self.name} : {self.price}'
 
+# Payment
 class Payment(models.Model):
     product = models.ForeignKey(Products, on_delete=models.CASCADE)
     user = models.ForeignKey(User, on_delete=models.CASCADE) 
